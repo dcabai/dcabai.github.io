@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/diegocabai/"
     - label: "vExpert Directory"
-      icon: "fas fa-address-book"
+      icon: 
       url: "https://vexpert.vmware.com/directory/5333"
       
 
@@ -158,7 +158,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/diegocabai/"
     - label: "vExpert Directory"
-      icon: "fas fa-address-book"
+      icon: 
       url: "https://vexpert.vmware.com/directory/5333"
 
 
