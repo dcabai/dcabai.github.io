@@ -4,7 +4,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Posts"
     url: /year-archive/
-  - title: "Categorias"
+  - title: "Categorías"
     url: /collection-archive/
   - title: "Archives"
     url: /sitemap/
