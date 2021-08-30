@@ -125,6 +125,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/diegocabai/"
+    - label: "vExpert Directory"
+      icon:
+      url: "https://vexpert.vmware.com/directory/5333"
+      
 
 # Site Footer
 footer:
