@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Diego Cabai Blog"
+title                    : "cabai.pro"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Diego Cabai Blog"
+name                     : "cabai.pro"
 description              : # "An amazing website."
 url                      : "https://dcabai.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
