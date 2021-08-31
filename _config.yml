@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "cabai.pro"
 description              : # "An amazing website."
-url                      : "https://dcabai.github.io"
+url                      : "https://cabai.pro"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dcabai/dcabai.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
