@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: Acerca de
 permalink: /about/
 author_profile: true
 ---
@@ -12,6 +12,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros augue, aliqu
 Nunc vel vulputate est. Duis et mattis sapien. Nam cursus tempor arcu, sit amet fringilla tortor finibus nec. Quisque eleifend mattis porttitor. Duis at sollicitudin purus, ut pretium lacus. Integer imperdiet dignissim nisl, vel posuere ipsum viverra a. Etiam scelerisque eu enim at laoreet. Nullam ac tortor a libero ornare scelerisque in ac lorem.
 
 <figure>
-  <img src="/assets/images/stars.png" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
+  <img src="/assets/images/stars.png" alt="vExpert Logo">
 </figure>
+
+Center aligned text.
+{: .text-center}
+
