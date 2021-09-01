@@ -66,4 +66,6 @@ Pero cuáles son los desafíos que podemos encontramos a la hora de utilizar mú
 
 Estas son las Plataformas Multi-Cloud más conocidas, en un próximo artículo entregaré mas detalles de cada una y en qué se diferencian. Además son las que aparecen en el cuadrante mágico de Gartner y la mayoría soporta las nubes públicas y privadas mas conocidas como así también las plataformas de contenedores e infraestructura como código. Sugiero que estén atentos al próximo artículo porque ahí detallaré cada una de ellas.
 
-![CMP](https://www.cuatroi.com/wp-content/uploads/2020/05/cmp.jpg)
+<figure>
+  <img src="/assets/images/cmp.jpg" alt="Cloud Management Platform">
+</figure>
