@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "VMworld 2020 – Mi sugerencia de Sesiones para tu Agenda"
-categories: cloud eventos vmware
-tags: cloud vmware eventos vmconaws novedades multicloud hybridcloud tanzu
+categories: cloud recovery seguridad
+tags: ciberseguridad seguridad bcp drp ransomware malware security devsecops
 date:   2020-09-10 10:50:23 -0400
 classes: wide
 ---
