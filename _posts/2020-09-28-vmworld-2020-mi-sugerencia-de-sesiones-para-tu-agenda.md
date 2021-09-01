@@ -6,12 +6,11 @@ tags: cloud vmware eventos vmconaws novedades multicloud hybridcloud tanzu nsx
 date:   2020-09-28 12:50:23 -0400
 classes: wide
 ---
+Mañana empieza el  [VMworld](https://www.vmworld.com/en/index.html)  2020, uno de los eventos de tecnología más importantes de cada año. Éste en particular será virtual y gratuito debido a la pandemia, si todavía no te registraste te recomiendo hacerlo ya que la cantidad, variedad y calidad de las sesiones es impresionante.
 
 <figure>
   <img src="/assets/images/vmworld2020.jpg" alt="VMworld 2020">
 </figure>
-
-Mañana empieza el  [VMworld](https://www.vmworld.com/en/index.html)  2020, uno de los eventos de tecnología más importantes de cada año. Éste en particular será virtual y gratuito debido a la pandemia, si todavía no te registraste te recomiendo hacerlo ya que la cantidad, variedad y calidad de las sesiones es impresionante.
 
 Allí cada uno puede armar su agenda, marcar las sesiones que le interesan, hacer networking con otras personas, visitar a los sponsors con charlas y además hablar 1 a 1 con diferentes especialistas.
 
