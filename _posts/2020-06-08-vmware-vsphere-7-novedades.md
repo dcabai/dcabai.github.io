@@ -2,7 +2,7 @@
 layout: single
 title:  "VMware vSphere 7 – Novedades"
 categories: cloud vmware
-tags: cloud vmware kubernetes seguridad update vmconaws multicloud
+tags: cloud vmware kubernetes seguridad update vmconaws multicloud nsx
 date:   2020-06-08 09:50:23 -0400
 classes: wide
 ---
