@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "AWS re:invent 2020, una Explosión de Novedades"
 categories: cloud eventos
 tags: cloud aws eventos vmconaws novedades multicloud
