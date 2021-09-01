@@ -12,7 +12,7 @@ Me considero un entusiasta tecnológico y creador de soluciones. Tengo más de 2
 
 Soy una persona proactiva y trabajadora que está dispuesta a desarrollar soluciones innovadoras y enfrentar nuevos desafíos. Amplia experiencia trabajando en corporaciones bajo los estándares ITIL y COBIT.
 
-En la actualidad me desempeño como CTO de la empresa CUATROi (www.cuatroi.com) donde trabajamos con soluciones innovadoras día a día.
+En la actualidad me desempeño como CTO de la empresa CUATROi ([https://www.cuatroi.com](https://www.cuatroi.com "www.cuatroi.com")) donde trabajamos con soluciones innovadoras día a día.
 
 En el pasado fui SME (Subject Matter Expert) de Active Directory, es algo que me sigue gustando y actualmente lo evolucioné en la Seguridad y Gobierno de las diferentes nubes públicas. Por ese motivo tambien participo del AWS Community Builder para el ámbito de "Management, Governance and Migration".
 También soy co-líder de la comunidad VMware User Group para Chile (VMUG) donde compartimos conocimiento de usuarios para usuarios.
