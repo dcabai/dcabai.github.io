@@ -17,6 +17,8 @@ En el pasado fui SME (Subject Matter Expert) de Active Directory, es algo que me
 También soy co-líder de la comunidad VMware User Group para Chile (VMUG) donde compartimos conocimiento de usuarios para usuarios.
 VMware vExpert 2020-21 y además cuento con más de 60 certificaciones técnicas en mi historia, donde algunas fueron venciendo pero porque el producto tal vez dejó de existir.
 
+Para mas detalle de mi experiencia laboral puedes ir a mi LinkedIn que el enlace está en la Sidebar de este sitio.
+
 Algunas de las que tengo/tuve y aún recuerdo: (Esto no lo actulizo todo el tiempo)
 
 ### Amazon Web Services (AWS):
