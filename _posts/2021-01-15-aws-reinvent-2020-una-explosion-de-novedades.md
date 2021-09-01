@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title:  "AWS re:invent 2020, una Explosión de Novedades"
 categories: cloud eventos
 tags: cloud aws eventos vmconaws novedades multicloud
@@ -9,8 +9,6 @@ date:   2021-01-15 02:50:23 -0400
 <figure>
   <img src="/assets/images/reinvent2020.png" alt="AWS re:Invent 2020">
 </figure>
-
-# AWS re:invent 2020, una Explosión de Novedades
 
 AWS re:Invent es una conferencia de anuncios y aprendizaje organizada por Amazon Web Services (AWS) para la comunidad global de cloud computing. Con anuncios de apertura, lanzamientos, sesiones y más, el evento AWS re:Invent se llevó a cabo durante 3 semanas, desde el 30 de noviembre hasta el 18 de diciembre. Debido a COVID-19, re:Invent se llevó a cabo virtualmente y fue el evento virtual más grande de AWS, con cientos de sesiones dirigidas por expertos de AWS. En esta publicación voy a resumir algunos de los anuncios que yo considero claves.
 
