@@ -3,7 +3,7 @@ layout: single
 title:  "VMworld 2020 – Mi sugerencia de Sesiones para tu Agenda"
 categories: cloud eventos vmware
 tags: cloud vmware eventos vmconaws novedades multicloud hybridcloud tanzu
-date:   2021-09-28 12:50:23 -0400
+date:   2020-09-28 12:50:23 -0400
 classes: wide
 ---
 
