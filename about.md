@@ -3,7 +3,7 @@ layout: single
 title: Acerca de mi
 permalink: /about/
 author_profile: true
-class: wide
+classes: wide
 ---
 
 # Quién soy?
