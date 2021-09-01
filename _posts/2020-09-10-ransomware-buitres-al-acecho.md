@@ -2,7 +2,7 @@
 layout: single
 title:  "Ransomware: Buitres al acecho"
 categories: cloud recovery seguridad
-tags: ciberseguridad seguridad bcp drp ransomware malware security devsecops
+tags: ciberseguridad seguridad bcp drp ransomware malware devsecops
 date:   2020-09-10 10:50:23 -0400
 classes: wide
 ---
