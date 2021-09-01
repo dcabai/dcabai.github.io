@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "VMworld 2020 – Mi sugerencia de Sesiones para tu Agenda"
+title:  "Ransomware: Buitres al acecho"
 categories: cloud recovery seguridad
 tags: ciberseguridad seguridad bcp drp ransomware malware security devsecops
 date:   2020-09-10 10:50:23 -0400
