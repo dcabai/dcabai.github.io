@@ -91,3 +91,6 @@ Algunas de las que tengo/tuve y aún recuerdo: (Esto no lo actulizo todo el tiem
 - Cisco Data Center Networking Sales Specialist 
 - Cisco Data Center Storage Networking Sales Specialist 
 - Cisco Certified Entry Network (CCENT)
+
+### Symantec
+- SCS: Symantec Certified Specialist Endpoint Protection v11
