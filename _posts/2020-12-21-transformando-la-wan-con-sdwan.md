@@ -8,4 +8,4 @@ classes: wide
 ---
 Les dejo el video grabado de un webinar que hice sobre VMware SD-WAN que les va a dar una idea para qué sirve y el por qué es necesario que las organizaciones lo implementen en sus ambientes actuales.
 
-{% include video id="gRPwbMGNpPc&t" provider="youtube" %}
+{% include video id="gRPwbMGNpPc" provider="youtube" %}
