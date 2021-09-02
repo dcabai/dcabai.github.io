@@ -12,11 +12,11 @@ Ahora luego de creada la máquina si vamos a ver la opción de Red Hat Linux, pe
   
 **Error**  (10637)  
 The virtualization software on host HOSTNAME does not support the Red Hat Enterprise Linux 5 operating system. 
-{: .notice--danger}
+{: .notice}
  
-**Recommended Action **
+**Recommended Action**
 Specify a host with different virtualization software and then try the operation again.  
-{: .notice--info}
+{: .notice--warning}
 
 Microsoft ya está al tanto de este pequeño error o bug pero todavía no hay un fix oficial al parecer, así que mientras tanto si necesitan usar este feature deberían realizar una actualización directamente sobre las tablas de la base de datos SQL al ejecutar la siguiente query:
 
