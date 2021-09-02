@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Webinar | Transformando la WAN con VMware SD-WAN by Velocloud"
+title:  "Webinar Transformando la WAN con VMware SD-WAN by Velocloud"
 categories: cloud webinar vmware
 tags: cloud vmware eventos webinar sdwan multicloud hybridcloud nsx ciberseguridad
 date:   2020-12-21 10:50:23 -0400
