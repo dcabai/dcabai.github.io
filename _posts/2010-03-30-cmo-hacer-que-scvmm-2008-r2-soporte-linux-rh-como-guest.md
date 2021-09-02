@@ -10,13 +10,11 @@ Por defecto System Center Virtual Machine Manager 2008 R2 con Microsoft Hyper-V 
   
 Ahora luego de creada la máquina si vamos a ver la opción de Red Hat Linux, pero cuando la seleccionamos en una VM existente podemos encontrarnos con un error similar al siguiente:  
   
-**Error**  (10637)  
-The virtualization software on host HOSTNAME does not support the Red Hat Enterprise Linux 5 operating system. 
-{: .notice}
- 
-**Recommended Action**
-Specify a host with different virtualization software and then try the operation again.  
-{: .notice--warning}
+> **Error**  (10637)  
+> The virtualization software on host HOSTNAME does not support the Red Hat Enterprise Linux 5 operating system. 
+
+> **Recommended Action**
+> Specify a host with different virtualization software and then try the operation again.  
 
 Microsoft ya está al tanto de este pequeño error o bug pero todavía no hay un fix oficial al parecer, así que mientras tanto si necesitan usar este feature deberían realizar una actualización directamente sobre las tablas de la base de datos SQL al ejecutar la siguiente query:
 
