@@ -2,7 +2,7 @@
 layout: single
 title:  "Mi top 10 de Sesiones para VMworld 2021"
 categories: cloud eventos vmware
-tags: cloud vmware eventos vmconaws novedades multicloud tanzu nsx kubernetes
+tags: cloud vmware eventos vmconaws novedades multicloud tanzu nsx kubernetes vexpert
 date:   2021-09-01 02:50:23 -0400
 classes: wide
 ---
