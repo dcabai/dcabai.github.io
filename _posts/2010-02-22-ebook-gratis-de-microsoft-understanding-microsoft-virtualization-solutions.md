@@ -20,6 +20,6 @@ Si lo queres comprar te dejo los datos para que puedas hacerlo:
 
 > Author: Mitch Tulloch with the Microsoft Virtualization Teams ISBN: 9780735693371  
 >  
-> Link | [Descargar el eBook en formato XPS](http://download.microsoft.com/download/5/B/4/5B46A838-67BB-4F7C-92CB-EABCA285DFDD/693821ebook.xps)  
-> Link | [Descargar el eBook en formato PDF](http://download.microsoft.com/download/5/B/4/5B46A838-67BB-4F7C-92CB-EABCA285DFDD/693821ebook.pdf)  
-> Link | [Technet Hyper-V and Virtualization](http://technet.microsoft.com/en-us/virtualization/default.aspx)
+> Link: [Descargar el eBook en formato XPS](http://download.microsoft.com/download/5/B/4/5B46A838-67BB-4F7C-92CB-EABCA285DFDD/693821ebook.xps)  
+> Link: [Descargar el eBook en formato PDF](http://download.microsoft.com/download/5/B/4/5B46A838-67BB-4F7C-92CB-EABCA285DFDD/693821ebook.pdf)  
+> Link: [Technet Hyper-V and Virtualization](http://technet.microsoft.com/en-us/virtualization/default.aspx)

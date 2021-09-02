@@ -52,4 +52,4 @@ Como se ve en el comando también podemos cambiar la OU donde va a parar el usua
 
 Por último si queremos saber si este comando correría correctamente debemos cambiar el **/start** por un **/check** y ahí nos dirá si el movimiento será exitoso. Por último si el usuario tenía una cuenta de correo en Exchange luego de que la replicación se realice entre los domain controllers podrán ejecutar el Move Mailbox común y corriente para depositar la casilla en un servidor de Exchange del nuevo dominio.
 
-Link | [Movetree.exe Technet Archive](http://technet.microsoft.com/en-us/library/cc755718%28WS.10%29.aspx)
+Link: [Movetree.exe Technet Archive](http://technet.microsoft.com/en-us/library/cc755718%28WS.10%29.aspx)

@@ -23,7 +23,7 @@ Este examen da crédito para una nueva certificación que también rendí un exa
   
 Les dejo algunos links mas abajo para que los que no lo hicieron, empiecen a leer un poco y los que ya estuvieron leyendo al respecto y tengan ganas de conocer los exámenes lo hagan. :)  
   
-Link | [Exam 70-659: TS: Windows Server 2008 R2, Server Virtualization](http://www.microsoft.com/learning/en/us/Exam.aspx?ID=70-659&locale=en-us)  
-Link | [Exam 70-693: Pro: Windows Server 2008 R2, Virtualization Administrator](http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-693)  
-Link | [Virtualization with Hyper-V](http://www.microsoft.com/windowsserver2008/en/us/hyperv-main.aspx)  
-Link | [What’s New in Windows Server 2008 R2?](http://www.microsoft.com/windowsserver2008/en/us/hyperv-r2.aspx)
+Link: [Exam 70-659: TS: Windows Server 2008 R2, Server Virtualization](http://www.microsoft.com/learning/en/us/Exam.aspx?ID=70-659&locale=en-us)  
+Link: [Exam 70-693: Pro: Windows Server 2008 R2, Virtualization Administrator](http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-693)  
+Link: [Virtualization with Hyper-V](http://www.microsoft.com/windowsserver2008/en/us/hyperv-main.aspx)  
+Link: [What’s New in Windows Server 2008 R2?](http://www.microsoft.com/windowsserver2008/en/us/hyperv-r2.aspx)

@@ -28,5 +28,5 @@ El resultado que obtenemos es algo así:
 
 Como ven es muy intuitivo de identificar el Grupo o Lista y luego los usuarios que si tienen permiso para enviar correo a dicha Lista. Espero que les sirva y les haga un poco mas sencilla la vida de administrar Exchange 2007. Dejo algunos links interesantes de Technet.
 
-Link | [Get-DistributionGroup on Microsoft Technet](http://technet.microsoft.com/en-us/library/bb124755.aspx)  
-Link | [–Filter Parameter on Microsoft Technet](http://technet.microsoft.com/en-us/library/bb430744.aspx)
+Link: [Get-DistributionGroup on Microsoft Technet](http://technet.microsoft.com/en-us/library/bb124755.aspx)  
+Link: [–Filter Parameter on Microsoft Technet](http://technet.microsoft.com/en-us/library/bb430744.aspx)

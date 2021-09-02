@@ -29,4 +29,4 @@ Esto cambia dos líneas en la tabla **tbl_IL_OS** con el atributo **OSFlags** pa
 
 Luego de esta modificación podremos cambiar una VM existente a Linux Red Hat sin ningun mensaje de error y además se podrá crear una nueva máquina con ese SO sin problemas ya que aparecerá dentro de la lista de SO soportados.
 
-Link | [Hyper-V Guest Operating System Support](http://technet.microsoft.com/en-us/library/cc794868%28WS.10%29.aspx)
+Link: [Hyper-V Guest Operating System Support](http://technet.microsoft.com/en-us/library/cc794868%28WS.10%29.aspx)

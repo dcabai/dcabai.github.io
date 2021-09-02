@@ -22,5 +22,5 @@ Creo que si todavía no te informaste sobre la nueva versión del sistema operat
   
 La verdad que como libros electrónicos gratuitos son muy buenas opciones y todos los que estamos en este tema de IT deberíamos echarle un vistazo por lo menos para informarnos de la nueva tecnología si es que no la probamos aún. Ambos están escritos por personal experto así que no sería una pérdida de tiempo.  
   
-Link | [Download Free eBook Exchange 2010 – A Practical Approach](http://www.red-gate.com/specials/Exchange/esa_exchange2010.htm?utm_source=simpletalkarticle&utm_medium=weblink&utm_content=2010ebookoct09)  
-Link | [Download Free eBook Introducing Windows Server 2008 R2](http://download.microsoft.com/download/5/C/0/5C0BD0AB-040D-4C56-A60B-661001012DDA/Windows_Server_2008_R2_e-book.pdf)
+Link: [Download Free eBook Exchange 2010 – A Practical Approach](http://www.red-gate.com/specials/Exchange/esa_exchange2010.htm?utm_source=simpletalkarticle&utm_medium=weblink&utm_content=2010ebookoct09)  
+Link: [Download Free eBook Introducing Windows Server 2008 R2](http://download.microsoft.com/download/5/C/0/5C0BD0AB-040D-4C56-A60B-661001012DDA/Windows_Server_2008_R2_e-book.pdf)
