@@ -51,11 +51,16 @@ Una vez que concluímos con dichas instalaciones continuamos con la ejecución d
   
 Como ven, los requisitos de Software ya los tengo instalados, pero si no estuviesen debería hacerlo. Como estamos listos para continuar hacemos click en el paso **4: Install Microsoft Exchange**. Luego los pasos que va a ir mostrando son bastantes intuitivos.  
   
-![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_5.png "ExSetup"){: .align-center}    ![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_6.png "ExSetup"){: .align-center}      
-![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_7.png "ExSetup"){: .align-center}      ![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_8.png "ExSetup"){: .align-center}      
-![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_9.png "ExSetup"){: .align-center}      ![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_10.png "ExSetup"){: .align-center}      
-![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_11.png "ExSetup"){: .align-center}      ![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_12.png "ExSetup"){: .align-center}      
-![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_13.png "ExSetup"){: .align-center}      ![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_14.png "ExSetup"){: .align-center}      
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_5.png "ExSetup"){: .align-center}
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_6.png "ExSetup"){: .align-center}      
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_7.png "ExSetup"){: .align-center}
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_8.png "ExSetup"){: .align-center}      
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_9.png "ExSetup"){: .align-center}
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_10.png "ExSetup"){: .align-center}      
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_11.png "ExSetup"){: .align-center}
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_12.png "ExSetup"){: .align-center}      
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_13.png "ExSetup"){: .align-center}
+![image-center](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_14.png "ExSetup"){: .align-center}      
   
 Muy bien, ya tenemos la instalación terminada y nuestro servidor de Exchange 2010 arriba. Esta es una instalación bien básica con los tres roles en el mismo equipo, sin packs de idioma adicionales y en el mismo servidor que el Domain Controller. Cada uno puede hacer su propio laboratorio, éste tenía la intención de hacer la instalación y ver las herramientas administrativas por arriba. También cabe destacar que todo el laboratorio fue instalado en una máquina virtual VMware ejecutándose en un VMware Player dentro de un Windows Vista. :) Un poco kamikaze no? pero funcionó y tuvo su fin que era el ver las nuevas opciones del Exchange que voy a comentar en otro artículo así no hago mas largo este.  
   
