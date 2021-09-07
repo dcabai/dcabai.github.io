@@ -26,13 +26,13 @@ El Exchange requiere tener instalado el IIS o Web Server así que podemos ejecut
 ServerManagerCmd –i Web-Server Web-ISAPI-Ext Web-Metabase Web-Lgcy-Mgmt-Console Web-Basic-Auth Web-Digest-Auth Web-Windows-Auth Web-Dyn-Compression NET-HTTP-Activation RPC-over-HTTP-proxy
 ```
   
-![image-left](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image.png "ServerManagerCmd IIS")  {: .align-left}
+![image-left](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image.png "ServerManagerCmd IIS"){: .align-left}
 
 En si es el comando para agregar roles o features y luego estan todos los roles separados por un espacio. Obviamente que al agregar estos roles nos va a agregar muchos otros mas que son requeridos por estos así que no nos asustemos cuando veamos una lista mucho mas grande al finalizar la instalación.  
   
 Este rol es muy importante que esté completo ya que es 100% utilizado por el Exchange como en versiones previas así que controlemos que quede todo bien instalado y que el mensaje final sea OK.  
   
-![image-left](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_3.png "Server Manager Roles Overview") {: .align-left}
+![image-left](/assets/images/InstalandoExchange2010sobreWindowsServer_D12D/image_3.png "Server Manager Roles Overview"){: .align-left}
 Si nos paramos sobre Roles dentro de Server Manager GUI vamos a ver algo parecido a lo que se muestra en la imagen.  
   
 Hasta ahora sólo agregamos roles y features de Windows Server 2008 y esto es lo que nos quedó y desde acá podemos administrarlo. Ahora nos queda instalar el software adicional de Microsoft que es requisito de Exchange 2010. Mas abajo nombro el soft requerido junto con el link para poder descargarlo.  
