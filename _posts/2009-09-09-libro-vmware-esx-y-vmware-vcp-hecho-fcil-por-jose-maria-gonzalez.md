@@ -2,7 +2,7 @@
 layout: single
 title:  "Libro: VMware ESX y VMware VCP Hecho Fácil por Jose Maria Gonzalez"
 categories: vmware ebook
-tags: vmware exam certifcacion legacy
+tags: vmware exam certificacion legacy
 date:   2009-09-09 05:50:23 -0400
 classes: wide
 ---
