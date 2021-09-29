@@ -10,7 +10,7 @@ No es novedad que Pure Storage es el líder en el ámbito de almacenamiento hace
 
 Para seguir aportando a su visión de una experiencia de datos moderna, los anuncios se centraron en unir la infraestructura con las aplicaciones en una modalidad de consumo estilo "cloud".
 
-Por un lado Pure Fusion, una plataforma de autoservicio de Storage-as-code para poder consumir como un servicio cloud los almacenamientos tradicionales. El equipo de DevOps podrá consumir rápidamente volúmenes, sistemas de archivos y servicios de datos avanzados como la replicación sin esperar el trabajo manual del back-end, haciendo que el hardware sea realmente "invisible" como lo es hoy en la nube pública. 
+Por un lado Pure Fusion, una plataforma de autoservicio de Storage-as-code para poder consumir como un servicio cloud los almacenamientos tradicionales. El equipo de DevOps podrá consumir rápidamente volúmenes, sistemas de archivos y servicios de datos avanzados como la replicación sin esperar el trabajo manual del back-end, haciendo que el hardware sea realmente "invisible" como lo es hoy en la nube pública.
 
 Dentro de sus características puedo destacar el escalado casi "infinito" como lo hace la nube pública y la integración con Terraform y Ansible para poder consumir.
 
@@ -20,9 +20,11 @@ Lo interesante de este nuevo servicio es que sea en la nube u OnPrem la experien
 
 Pure se caracteriza por su simpleza dentro de su plataforma y con estos nuevos servicios está acercando la infraestructura a DevOps para que consuman el almacenamiento y los datos directamente desde el desarrollo sin tener que pasar por los típicos silos de operación tradicional, en resumen, estilo "cloud".
 
-Si quieres ver todo el evento de anuncios OnDemand: https://www.purestorage.com/enable/modern-data-storage.html
 
-Pure Fusion: https://www.purestorage.com/enable/pure-fusion.html
-Si deseas saber más, regístrate en el evento técnico de Pure Fusion el 10 de Noviembre: https://www.purestorage.com/resources/webinars/pure-fusion-launch-event-2021.html
+Si quieres ver todo el evento de anuncios OnDemand: [https://www.purestorage.com/enable/modern-data-storage.html](https://www.purestorage.com/enable/modern-data-storage.html)
 
-Portworx Data Services: https://www.purestorage.com/enable/portworx/data-services.html
+Pure Fusion: [https://www.purestorage.com/enable/pure-fusion.html](https://www.purestorage.com/enable/pure-fusion.html)
+
+Si deseas saber más, regístrate en el evento técnico de Pure Fusion el 10 de Noviembre: [https://www.purestorage.com/resources/webinars/pure-fusion-launch-event-2021.html](https://www.purestorage.com/resources/webinars/pure-fusion-launch-event-2021.html)
+
+Portworx Data Services: [https://www.purestorage.com/enable/portworx/data-services.html](https://www.purestorage.com/enable/portworx/data-services.html)
