@@ -21,6 +21,7 @@ En cierta forma, si, pero los prerrequisitos son bastantes si lo estas ejecutand
 **La nube no es obligación**, viene con soporte para una implementación local de Docker por lo que cualquier persona, con capacidad en su notebook, puede ejecutar Tanzu Kubernetes sin requerir un datacenter o gastar dinero en la nube.
 
 Cuando descargas TCE verás que es un Batch con varios EXE. El Batch copia estos archivos en diferentes ubicaciones.
+
 ![image-center](/assets/images/tce/tanzu1.png){: .align-center} 
 
 ![image-center](/assets/images/tce/tanzu2.png){: .align-center} 
