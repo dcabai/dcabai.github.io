@@ -131,6 +131,9 @@ author:
     - label: "vExpert Directory"
       icon: 
       url: "https://vexpert.vmware.com/directory/5333"
+    - label: "VMUG Chile Youtube Channel"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCJBvlGdOmmtGW10BwIv37cA"
       
 
 # Site Footer
