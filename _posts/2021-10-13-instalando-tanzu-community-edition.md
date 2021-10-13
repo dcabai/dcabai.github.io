@@ -77,17 +77,10 @@ Después de unos minutos, la implementación se completa y ahora está listo par
 TCE se está desarrollando **abiertamente** con la comunidad y puedes participar visitando los repositorios de Github y links de documentación a continuación:
 
 Link: [Documentación Tanzu Community Edition](https://tanzucommunityedition.io/docs/latest/installation-planning/)
-
 Link: [Github Tanzu Framework](https://github.com/vmware-tanzu/tanzu-framework)
-
 Link: [Github Tanzu Community Edition](https://github.com/vmware-tanzu/community-edition)
-
 Link: [Descargar Tanzu Community Edition](https://tanzucommunityedition.io/download/)
-
 Link: [Docker Desktop for Windows](https://docs.docker.com/desktop/windows/install/)
-
 Link: [Kubectl for Windows](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)
-
 Link: [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
-
 Link: [Anuncio de TCE](https://tanzu.vmware.com/content/blog/vmware-tanzu-community-edition-announcement)
