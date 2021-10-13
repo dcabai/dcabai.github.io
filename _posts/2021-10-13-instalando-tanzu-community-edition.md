@@ -89,4 +89,4 @@ Link: [VCP4 vSphere Study Notes](http://www.simonlong.co.uk/blog/vcp-vsphere-upg
 Link: [VCP vSphere Practice Exam Questions](http://www.simonlong.co.uk/blog/vcp-vsphere-practice-exam-questions/)  
 Link: [Try VMware vSphere 4 with Video Demos](https://www.vmware.com/tryvmware/)  
 Link: [VMware ESX 4.0 and VMware vCenter Server 4.0](http://www.vmware.com/support/pubs/vs_pages/vsp_pubs_esx40_vc40.html)  
-Link: [VCP on vSphere 4 Mock Exam](https://mylearnssl.vmware.com/index.cfm)
+Link: [Documentación Tanzu Community Edition](https://tanzucommunityedition.io/docs/latest/installation-planning/)
