@@ -84,3 +84,9 @@ Link: [Docker Desktop for Windows](https://docs.docker.com/desktop/windows/insta
 Link: [Kubectl for Windows](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)
 Link: [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 Link: [Anuncio de TCE](https://tanzu.vmware.com/content/blog/vmware-tanzu-community-edition-announcement)
+
+Link: [VCP4 vSphere Study Notes](http://www.simonlong.co.uk/blog/vcp-vsphere-upgrade-study-notes/)  
+Link: [VCP vSphere Practice Exam Questions](http://www.simonlong.co.uk/blog/vcp-vsphere-practice-exam-questions/)  
+Link: [Try VMware vSphere 4 with Video Demos](https://www.vmware.com/tryvmware/)  
+Link: [VMware ESX 4.0 and VMware vCenter Server 4.0](http://www.vmware.com/support/pubs/vs_pages/vsp_pubs_esx40_vc40.html)  
+Link: [VCP on vSphere 4 Mock Exam](https://mylearnssl.vmware.com/index.cfm)
