@@ -23,29 +23,29 @@ Y luego ejecutamos su instalación.
 helm install k10 kasten/k10 --namespace=kasten-io
 ```
 
-![image-center](/assets/images/kasten/kasten1.png){: .align-center} 
+![image-center](/assets/images/kasten/Kasten1.png){: .align-center} 
 
 Podemos ir monitoreando los pods hasta que todos estén en estado Running.
 ```batch
 kubectl get pods --namespace kasten-io --watch
 ```
 
-![image-center](/assets/images/kasten/kasten2.png){: .align-center} 
+![image-center](/assets/images/kasten/Kasten2.png){: .align-center} 
 
 Y por último redireccionamos el acceso por navegador.
 ```batch
 kubectl --namespace kasten-io port-forward service/gateway 8080:8000
 ```
 
-![image-center](/assets/images/kasten/kasten3.png){: .align-center} 
+![image-center](/assets/images/kasten/Kasten3.png){: .align-center} 
 
 Detecta las aplicaciones que tengo corriendo en el cluster automáticamente, donde vemos el namespace **tanzu-rocks** que creamos en el post anterior donde instalamos TCE.
 
-![image-center](/assets/images/kasten/kasten4.png){: .align-center} 
+![image-center](/assets/images/kasten/Kasten4.png){: .align-center} 
 
 Y luego ya podemos crear políticas de respaldo la cual voy a asignarsela a tanzu-rocks.
 
-![image-center](/assets/images/kasten/kasten5.png){: .align-center} 
+![image-center](/assets/images/kasten/Kasten5.png){: .align-center} 
 
 Como se ve, bien simple, liviano y simple de usar como toda la familia de productos de Veeam. Si quieren darle una mirada a la solución, como ven es facil de instalar y pueden hacerlo no solo sobre TCE sino también sobre un cluster de AWS, Azure o GCP si es que tienen créditos en dichas nubes.
 
