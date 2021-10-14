@@ -70,6 +70,10 @@ Ahora es un simple asistente donde nos pide alguna información de redes, nombre
 
 ![image-center](/assets/images/tce/tanzu8.png){: .align-center} 
 
+**En AWS** si elegimos usar CloudFormation también podemos ir viendo como se va creando el Stack completo en el proceso.
+
+![image-center](/assets/images/tce/tanzu10.png){: .align-center} 
+
 Después de unos minutos, la implementación se completa y ahora está listo para ser accedido.
 
 ![image-center](/assets/images/tce/tanzu9.png){: .align-center} 
