@@ -78,6 +78,8 @@ Después de unos minutos, la implementación se completa y ahora está listo par
 
 ![image-center](/assets/images/tce/tanzu9.png){: .align-center} 
 
+![image-center](/assets/images/tce/tanzu11.png){: .align-center} 
+
 TCE se está desarrollando **abiertamente** con la comunidad y puedes participar visitando los repositorios de Github y links de documentación a continuación:
 
 Link: [Documentación Tanzu Community Edition](https://tanzucommunityedition.io/docs/latest/installation-planning/)  
