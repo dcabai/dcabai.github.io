@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Instalando Tanzu Community Edition (TCE)"
-categories: vmware 
-tags: cloud aws vmware azure kubernetes hybridcloud multicloud
+categories: vmware kubernetes
+tags: cloud aws vmware azure kubernetes hybridcloud multicloud tanzu
 date:   2021-10-13 02:50:23 -0400
 classes: wide
 ---
