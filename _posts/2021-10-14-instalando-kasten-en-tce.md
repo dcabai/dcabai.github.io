@@ -50,6 +50,6 @@ Y luego ya podemos crear políticas de respaldo la cual voy a asignarsela a tanz
 Como se ve, bien simple, liviano y simple de usar como toda la familia de productos de Veeam. Si quieren darle una mirada a la solución, como ven es facil de instalar y pueden hacerlo no solo sobre TCE sino también sobre un cluster de AWS, Azure o GCP si es que tienen créditos en dichas nubes.
 
 Link: [Documentación de Kasten](https://docs.kasten.io/latest/)  
-Link: K[asten Homepage](https://www.kasten.io/)  
+Link: [Kasten Homepage](https://www.kasten.io/)  
 Link: [Descargar Kasten](https://www.kasten.io/try-kasten-k10?__hstc=78384331.b2c5a47db1002918011e6dfbe7dee47c.1634180149206.1634180149206.1634180149206.1&__hssc=78384331.90.1634180149206&__hsfp=1597795017&hsutk=b2c5a47db1002918011e6dfbe7dee47c&contentType=standard-page)  
 Link: [Sitio de Entrenamiento de Kasten y Kubernetes](https://learning.kasten.io/)  
