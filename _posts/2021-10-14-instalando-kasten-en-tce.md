@@ -47,7 +47,7 @@ Y luego ya podemos crear políticas de respaldo la cual voy a asignarsela a tanz
 
 ![image-center](/assets/images/kasten/Kasten5.png){: .align-center} 
 
-Como se ve, bien simple, liviano y simple de usar como toda la familia de productos de Veeam. Si quieren darle una mirada a la solución, como ven es facil de instalar y pueden hacerlo no solo sobre TCE sino también sobre un cluster de AWS, Azure o GCP si es que tienen créditos en dichas nubes.
+Como se ve, bien simple, liviano y simple de usar como toda la familia de productos de Veeam. Si quieren darle una mirada a la solución, como ven es facil de instalar y pueden hacerlo no solo sobre TCE sino también sobre un cluster de AWS, Azure o GCP si es que tienen créditos en dichas nubes. Quedan algunas cositas por resolver porque sobre TCE no es todo tan natural al parecer pero ya lo iré resolviendo.
 
 Link: [Documentación de Kasten](https://docs.kasten.io/latest/)  
 Link: [Kasten Homepage](https://www.kasten.io/)  
