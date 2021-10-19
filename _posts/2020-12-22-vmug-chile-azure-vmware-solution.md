@@ -8,4 +8,4 @@ classes: wide
 ---
 Les dejo el video grabado del evento de VMUG Chile que co-lidero donde los invitados especiales, Roberto Canton, Staff Cloud Solutions Architect y Carlos Villuendas, Global Black Belt en Microsoft, nos cuentan toda la solución de nube híbrida entre VMware y Microsoft con demo incluida.
 
-{% include video id="SxWx9jl90fA&t" provider="youtube" %}
+{% include video id="SxWx9jl90fA" provider="youtube" %}
