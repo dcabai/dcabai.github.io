@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "VMUG Chile - Azure VMware Solution"
-categories: cloud webinar vmware microsoft
-tags: cloud vmware eventos webinar azure multicloud hybridcloud microsoft 
+categories: cloud webinar vmware microsoft vmug
+tags: cloud vmware eventos webinar azure multicloud hybridcloud microsoft vmug
 date:   2020-11-26 10:50:23 -0400
 classes: wide
 ---

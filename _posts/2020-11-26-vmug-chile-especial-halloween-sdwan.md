@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "VMUG Chile - Especial Halloween VMware SD-WAN by Velocloud"
-categories: cloud webinar vmware
-tags: cloud vmware eventos webinar sdwan multicloud hybridcloud nsx ciberseguridad
+categories: cloud webinar vmware vmug
+tags: cloud vmware eventos webinar sdwan multicloud hybridcloud nsx ciberseguridad vmug
 date:   2020-11-26 10:50:23 -0400
 classes: wide
 ---
