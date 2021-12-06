@@ -22,6 +22,9 @@ Para mas detalle de mi experiencia laboral puedes ir a mi LinkedIn que el enlace
 
 Algunas de las que tengo/tuve y aún recuerdo: (Esto no lo actulizo todo el tiempo)
 
+### Google Cloud Platform
+- Google Cloud Certified - Associate Cloud Engineer
+
 ### Amazon Web Services (AWS):
 - AWS Cloud Practitioner
 - AWS Certified Solution Architect Associate
