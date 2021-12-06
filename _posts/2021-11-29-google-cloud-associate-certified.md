@@ -7,7 +7,7 @@ date:   2021-11-29 12:50:23 -0400
 classes: wide
 ---
 
-![image-left](/assets/images/google-associate/badge.png){: .align-left} Finalmente rendí el examen de **Google Cloud** antes de finalizar el 2021 para así al menos contar con una certificación en cada uno de los grandes hyperscalers. Esto no termina acá pero para poder tener una visión multicloud y para poder seguir en la consultoría de este tipo de arquitecturas era vital contar con certificaciones en los tres.
+<img src="/assets/images/google-associate/badge.png" alt="badge" width="64px" /> Finalmente rendí el examen de **Google Cloud** antes de finalizar el 2021 para así al menos contar con una certificación en cada uno de los grandes hyperscalers. Esto no termina acá pero para poder tener una visión multicloud y para poder seguir en la consultoría de este tipo de arquitecturas era vital contar con certificaciones en los tres.
 
 En términos de Marketshare se puede decir que Google Cloud Platform o GCP está en tercer lugar por debajo de Azure y AWS sigue cómodo primero, pero GCP es mas una nube de términos específicos que de propósitos generales y ahí es donde destaca. Su servicio de **Bigquery** es increíble. El manejo de los datos realmente se destaca en esta nube y de más mencionar la integración con **Kubernetes**.
 
@@ -51,10 +51,10 @@ Les dejo algunos lugares con buenos cursos y labs para tomar, algunos tienen mat
 
 Linkes generales:
 
-Link: [Google Cloud Certification](https://cloud.google.com/certification)
-Link: [Google Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
-Link: [Google Associate Cloud Engineer Smaple Questiosn](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform)
-Link: [Google Associate Cloud Engineer Exam Guide](https://cloud.google.com/certification/guides/cloud-engineer?skip_cache=true)
+Link: [Google Cloud Certification](https://cloud.google.com/certification)  
+Link: [Google Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)  
+Link: [Google Associate Cloud Engineer Smaple Questiosn](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform)  
+Link: [Google Associate Cloud Engineer Exam Guide](https://cloud.google.com/certification/guides/cloud-engineer?skip_cache=true)  
 
 Documentación que tuve que leer mas en detalle ya que como dije, algunos temas van al detalle (fondo) y uno en el día a día esos detalles los busca a la hora de implementar, pero me sirvió para repasar ciertos puntos que me tomaron en el examen. Lean a consciencia ya que de nuevo, los detalles, son los que aparecieron en el examen.  
   
