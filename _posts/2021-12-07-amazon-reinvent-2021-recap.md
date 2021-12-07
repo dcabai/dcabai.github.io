@@ -85,5 +85,5 @@ Además anunciaron opciones **Serverless** y bajo demanda para **Redshift**, **E
 
 Como conclusión te cuento que esto es un breve resumen de lo que yo considero fue clave de re:Invent 2021. AWS ahora cuenta con más de 200 servicios, lo que puede causar mucha confusión, pero como dijo por ahí su CEO cuando se lo preguntaron, “no tienes que usarlos todos como si estuvieses recolectando cartas Pokémon, pero lo importante es que están disponibles si los necesitas”.
 
-Link: [AWS Top Announcementes of AWS re:Invent 2021](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/)
+Link: [AWS Top Announcementes of AWS re:Invent 2021](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/)  
 Link: [All AWS What’s new in 2021](https://aws.amazon.com/about-aws/whats-new/2021/)
