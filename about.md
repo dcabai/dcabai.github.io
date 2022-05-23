@@ -29,6 +29,7 @@ Algunas de las que tengo/tuve y aún recuerdo: (Esto no lo actulizo todo el tiem
 - AWS Cloud Practitioner
 - AWS Certified Solution Architect Associate
 - AWS Certified Solution Architect Professional
+- AWS Well Architected Framework Badge
 
 ### VMware:
 - VMware Certified Professional – Data Center Virtualization 2019
