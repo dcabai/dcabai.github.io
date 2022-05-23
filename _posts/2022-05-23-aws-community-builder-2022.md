@@ -15,10 +15,10 @@ El programa te conecta con varios SME (Subject Matter Experts) en diferentes tem
 
 ### Para qué me sirvió a mi específicamente?
 
-> Acceso a webinars exclusivos para los Builders con características nuevas en los servicios de AWS o nuevos servicios de AWS por ser lanzados.
-> Sesiones de training exclusivas a Builders o públicas pero si no fuese por la plataforma de colaboración no me hubiese enterado de dichas sesiones.
-> El Slack de Builders me permite generar networking conversar y validar temas con el resto de la comunidad AWS.
-> Aportar y apoyar en temas a otros Builders.
+- Acceso a webinars exclusivos para los Builders con características nuevas en los servicios de AWS o nuevos servicios de AWS por ser lanzados.
+- Sesiones de training exclusivas a Builders o públicas pero si no fuese por la plataforma de colaboración no me hubiese enterado de dichas sesiones.
+- El Slack de Builders me permite generar networking conversar y validar temas con el resto de la comunidad AWS.
+- Aportar y apoyar en temas a otros Builders.
 
 Tiene otros beneficios como créditos de AWS para que crees tus propias cosas, voucher de certificación y un swag kit bastante cool.
 
