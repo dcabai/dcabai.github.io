@@ -31,7 +31,7 @@ Una vez que el plan de recuperación está implementado, puedes usar AWS Elastic
 ### Conclusión:
 AWS Elastic Disaster Recovery es una solución altamente escalable, confiable y rentable para las empresas que necesitan recuperar rápidamente sus sistemas y aplicaciones en caso de desastre. Al crear una réplica de sus sistemas y aplicaciones en la nube de AWS, las empresas pueden asegurarse de estar siempre preparadas para el peor de los casos. Con recuperación automatizada, múltiples zonas de disponibilidad y precios flexibles, es una herramienta poderosa para cualquier empresa que valore la resiliencia y la continuidad. Es el homólogo de Azure Site Recovery para los que actualmente poseen dicha nube.
 
-Link: [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
-Link: [Documentación AWS Elastic Disaster Recovery (AWS DRS)](https://docs.aws.amazon.com/drs/latest/userguide/what-is-drs.html)
-Link: [Comparativa CloudEndure – AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/when-to-choose-aws-drs/?cloud-endure-blogs.sort-by=item.additionalFields.createdDate&cloud-endure-blogs.sort-order=desc)
+Link: [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)  
+Link: [Documentación AWS Elastic Disaster Recovery (AWS DRS)](https://docs.aws.amazon.com/drs/latest/userguide/what-is-drs.html)  
+Link: [Comparativa CloudEndure – AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/when-to-choose-aws-drs/?cloud-endure-blogs.sort-by=item.additionalFields.createdDate&cloud-endure-blogs.sort-order=desc)  
 Link: [CloudEndure EOL FAQ](https://docs.cloudendure.com/Content/FAQ/FAQ/CloudEndure_DR_EOL_FAQ.htm)
