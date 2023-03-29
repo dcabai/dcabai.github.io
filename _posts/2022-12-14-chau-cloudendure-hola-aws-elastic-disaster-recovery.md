@@ -3,7 +3,7 @@ layout: single
 title:  "Chau CloudEndure. Hola AWS Elastic Disaster Recovery"
 categories: aws cloud
 tags: cloud aws backup drp 
-date:   2023-07-14 12:00:00 -0400
+date:   2022-12-14 12:00:00 -0400
 classes: wide
 ---
 
