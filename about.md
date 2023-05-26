@@ -14,7 +14,7 @@ Me considero inquieto, proactivo y muy trabajador, siempre dispuesto a innovar y
 
 En la actualidad me desempeño como LATAM Regional Presales Manage de ([CISO Global](https://www.ciso.inc/ "www.ciso.inc")), compañía en la que trabajamos con soluciones innovadoras día a día.
 
-En el pasado fui SME (Subject Matter Expert) de Active Directory, algo que me sigue gustando y que actualmente para mi evolucionó en Seguridad y Gobierno de las diferentes nubes públicas, motivo por el que participo del AWS Community Builder para el ámbito de “Management, Governance and Migration”. También lidero la comunidad VMware User Group (VMUG) para Chile en conjunto con grandes apasionados como yo, compartiendo conocimiento de usuario a usuario. 
+En el pasado fui SME (Subject Matter Expert) de Active Directory, algo que me sigue gustando y que actualmente para mi evolucionó en Seguridad y Gobierno de las diferentes nubes públicas, motivo por el que participo del AWS Community Builder para el ámbito de “Cloud Operations”. También lidero la comunidad VMware User Group (VMUG) para Chile en conjunto con grandes apasionados como yo, compartiendo conocimiento de usuario a usuario. 
 
 Más detalle de mi experiencia laboral se puede encontrar en mi perfil de LinkedIn (link en la sidebar).
 
