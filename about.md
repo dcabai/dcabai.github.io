@@ -1,13 +1,10 @@
 ---
 layout: single
-title: Acerca de mi
+title: ¿Quién soy?
 permalink: /about/
 author_profile: true
 classes: wide
 ---
-
-# ¿Quién soy?
-
 Soy Diego, un techie, gran apasionado por la tecnología y crear soluciones. Tengo más de 24 años de experiencia en TI, amplia y comprobable tanto en desarrollo, como en diseño de soluciones técnicas, presentaciones a clientes, análisis de PoC, CAPEX, OPEX, ROI y TCO. Durante este tiempo he trabajado en corporaciones bajo los estándares ITIL, COBIT y últimamente DevOps.
 
 Me considero inquieto, proactivo y muy trabajador, siempre dispuesto a innovar y enfrentar desafíos. 
