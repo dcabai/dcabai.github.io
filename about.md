@@ -6,21 +6,19 @@ author_profile: true
 classes: wide
 ---
 
-# Quién soy?
+# ¿Quién soy?
 
-Me considero un entusiasta tecnológico y creador de soluciones. Tengo más de 24 años de experiencia en tecnología de la información. Amplia y comprobable experiencia en desarrollo y diseño de soluciones técnicas, presentaciones a clientes, análisis de PoC, capex, opex, roi y tco. 
+Soy Diego, un techie, gran apasionado por la tecnología y crear soluciones. Tengo más de 24 años de experiencia en TI, amplia y comprobable tanto en desarrollo, como en diseño de soluciones técnicas, presentaciones a clientes, análisis de PoC, CAPEX, OPEX, ROI y TCO. Durante este tiempo he trabajado en corporaciones bajo los estándares ITIL, COBIT y últimamente DevOps.
 
-Soy una persona proactiva y trabajadora que está dispuesta a desarrollar soluciones innovadoras y enfrentar nuevos desafíos. Amplia experiencia trabajando en corporaciones bajo los estándares ITIL y COBIT.
+Me considero inquieto, proactivo y muy trabajador, siempre dispuesto a innovar y enfrentar desafíos. 
 
-En la actualidad me desempeño como CTO de la empresa CUATROi ([https://www.cuatroi.com](https://www.cuatroi.com "www.cuatroi.com")) donde trabajamos con soluciones innovadoras día a día.
+En la actualidad me desempeño como LATAM Regional Presales Manage de ([CISO Global](https://www.ciso.inc/ "www.ciso.inc")), compañía en la que trabajamos con soluciones innovadoras día a día.
 
-En el pasado fui SME (Subject Matter Expert) de Active Directory, es algo que me sigue gustando y actualmente lo evolucioné en la Seguridad y Gobierno de las diferentes nubes públicas. Por ese motivo tambien participo del AWS Community Builder para el ámbito de "Management, Governance and Migration".
-También soy co-líder de la comunidad VMware User Group para Chile (VMUG) donde compartimos conocimiento de usuarios para usuarios.
-VMware vExpert 2020-21 y además cuento con más de 60 certificaciones técnicas en mi historia, donde algunas fueron venciendo pero porque el producto tal vez dejó de existir.
+En el pasado fui SME (Subject Matter Expert) de Active Directory, algo que me sigue gustando y que actualmente para mi evolucionó en Seguridad y Gobierno de las diferentes nubes públicas, motivo por el que participo del AWS Community Builder para el ámbito de “Management, Governance and Migration”. También lidero la comunidad VMware User Group (VMUG) para Chile en conjunto con grandes apasionados como yo, compartiendo conocimiento de usuario a usuario. 
 
-Para mas detalle de mi experiencia laboral puedes ir a mi LinkedIn que el enlace está en la Sidebar de este sitio.
+Más detalle de mi experiencia laboral se puede encontrar en mi perfil de LinkedIn (link en la sidebar).
 
-Algunas de las que tengo/tuve y aún recuerdo: (Esto no lo actulizo todo el tiempo)
+Soy VMware vExpert 2020-21 y cuento con más de 60 certificaciones técnicas a lo largo de mi historia. Estas son algunas de las certificaciones que tengo/tuve y que aún recuerdo:
 
 ### Google Cloud Platform
 - Google Cloud Certified - Associate Cloud Engineer
@@ -44,6 +42,7 @@ Algunas de las que tengo/tuve y aún recuerdo: (Esto no lo actulizo todo el tiem
 
 ### Microsoft:
 - Microsoft Certified Azure Fundamentals 
+- Microsoft 365 Certified Fundamentals
 - Microsoft Certified Solutions Associate (MCSA) on Windows Server 2012 
 - Microsoft Certified Solutions Associate (MCSA) on Windows Server 2008 
 - Microsoft Certified IT Professional (MCITP) Enterprise Messaging Administrator 2010 
