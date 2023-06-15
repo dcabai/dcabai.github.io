@@ -18,7 +18,7 @@ En este breve artículo te quiero contar cómo Microsoft Security Copilot y Micr
 
 ### Qué es Microsoft Security Copilot?
 
-Microsoft Security Copilot es una herramienta que permite a las organizaciones a defenderse a la velocidad y escala de la IA. Puede ayudarte a defender tu plataforma contra amenazas cibernéticas sofisticadas e impulsar la innovación con funciones de IA integradas directamente en las herramientas y servicios de Microsoft. Utiliza un modelo de lenguaje (LLM) entrenado en 65 billones de señales diarias de Microsoft y OpenAI, así como un modelo específico de seguridad de Microsoft, para brindar orientación e información inteligente para las operaciones de seguridad. 
+Microsoft Security Copilot es una herramienta que permite a las organizaciones defenderse a la velocidad y escala de la IA. Puede ayudarte a defender tu plataforma contra amenazas cibernéticas sofisticadas e impulsar la innovación con funciones de IA integradas directamente en las herramientas y servicios de Microsoft. Utiliza un modelo de lenguaje (LLM) entrenado en 65 billones de señales diarias de Microsoft y OpenAI, así como un modelo específico de seguridad de Microsoft, para brindar orientación e información inteligente para las operaciones de seguridad. 
 Con esta solución podrás:
 - Hacer preguntas en lenguaje natural y recibir respuestas procesables para dar respuesta a incidentes, búsqueda de amenazas e informes de seguridad.
 - Identificar un ataque en curso, evaluar su escala y obtener instrucciones para comenzar la remediación en base a tácticas comprobadas de incidentes de seguridad del mundo real.
