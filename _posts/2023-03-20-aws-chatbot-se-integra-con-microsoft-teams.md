@@ -33,7 +33,8 @@ Esto te puede ayudar a ahorrar dinero al reducir la necesidad de desarrollo y ma
 Ejemplo de alerta:
 <img src="/assets/images/aws-chatbot-ms-teams/alerta-awschatbot.png" alt="aws-chatbot-ms-teams" align="center" />
 
-**Conclusión**
+### Conclusión
+
 Esto entrega muchos beneficios, que incluyen comunicación optimizada, colaboración mejorada, mayor visibilidad, seguridad mejorada y ahorro de costos. Al integrar estas dos poderosas plataformas, las empresas pueden mejorar sus flujos de trabajo y aumentar su eficiencia, lo que en última instancia impulsa el crecimiento y el éxito.
 Les recomiendo revisar el post de Sébastien Stormacq con ejemplos claros y cómo configurarlo específicamente.
 Link AWS Chatbot Now Integrates With Microsoft Teams 
