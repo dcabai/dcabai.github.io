@@ -56,7 +56,7 @@ Como hemos visto en los últimos años, Microsoft está invirtiendo muchísimo e
 
 En este artículo, vemos dos soluciones de ciberseguridad impulsadas por medio de la Inteligencia Artificial (IA). Las tareas manuales ya no son suficientes para combatir el cibercrimen, por eso nos apoyamos en herramientas, pero qué pasa si gestionar las herramientas también es “lento”, en ese caso necesitamos una respuesta más rápida y automatizada, ahí es donde la IA empieza a tomar un rol activo. La IA va a tomar decisiones en base a comportamiento y ejecutar acciones correctivas o de bloqueo temprano. Esto es vital para poder hacer más difícil el acceso a nuestros datos a personas externas que buscan hacerlo de forma ilícita.
 
-En los próximos artículos veremos como **Google Cloud (GCP)** y **Amazon Web Services (AWS)** están haciendo lo suyo con la IA en temas de ciberseguridad
+En los próximos artículos veremos como **Google Cloud (GCP)** y **Amazon Web Services (AWS)** están haciendo lo suyo con la IA en temas de ciberseguridad.
 
 Link: [Microsoft Entra - Secure Identities and Access](https://www.microsoft.com/en-us/security/business/microsoft-entra)  
 Link: [Microsoft Entra admin center](https://entra.microsoft.com/)  
