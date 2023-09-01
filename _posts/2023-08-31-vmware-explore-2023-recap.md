@@ -7,13 +7,14 @@ date:   2023-08-31 12:50:23 -0400
 classes: wide
 ---
 
-<img src="/assets/images/explore-2023/title.png" alt="VMware Explore 2023 Recap" align="center" /> 
+![image-center](/assets/images/explore-2023/title.png){: .align-center}
 
 Como ya es costumbre, paso a resumir algunos anuncios clave del último **VMware Explore 2023**, el antiguo VMworld. Ya pasaron algunos días, pero no quería dejar pasar esta oportunidad de entregarles un breve resumen de lo que para mi fue lo más relevante. En principio como hemos visto en este último tiempo en VMware, la compañía se estuvo centrando en la familia de soluciones Tanzu y Aria. Por eso la mayoría de los anuncios vienen desde esa perspectiva.
 
 **Tanzu Mission Control**
 
 Se anunció la capacidad de soportar lifecycle management (LCM) para Azure Kubernetes Service (AKS). Ya era soportado sobre el mismo servicio, pero en AWS, ahora se sumó la capacidad en Azure dando un guiño al soporte multi-cloud de la plataforma.
+
 Link: [Reduce Multi-Cloud Silos with Added Azure Cluster Lifecycle Management Support via VMware Tanzu](https://tanzu.vmware.com/content/blog/remove-multi-cloud-silos-with-aks-cluster-lifecycle-management-support)  
 
 **Tanzu Application Engine**
@@ -61,7 +62,6 @@ También hay mejoras a nivel de uso de GPU, cantidad soportada y distribución d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WEfbR7NPcI0?si=bZgDUWUIPYYb3WPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 <br/>
-
 Link: [Announcing vSphere Q3 2023 Release](https://blogs.vmware.com/vsphere/2023/08/announcing-vsphere-q3-2023-release.html)
 
 **vSAN 8 Update 2**
