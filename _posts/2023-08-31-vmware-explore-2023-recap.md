@@ -27,10 +27,9 @@ Link: [Designing VMware Tanzu Application Engine to Increase Collaboration, App 
 
 Los Cloud “Packs” ahora se conocen como Cloud Editions, te dejo estas imágenes para entender mejor que incluye cada edición.
 
-<img src="/assets/images/explore-2023/picture1.png" alt="Pic1" align="center" /> 
-<br/>
+![image-center](/assets/images/explore-2023/picture1.png){: .align-center}
 
-<img src="/assets/images/explore-2023/picture2.png" alt="Pic1" align="center" /> 
+![image-center](/assets/images/explore-2023/picture2.png){: .align-center} 
 
 Link: [Compare VMware Cloud Software Editions](https://www.vmware.com/cloud-solutions/vmware-cloud.html#compare-editions)
 
@@ -38,7 +37,7 @@ Link: [Compare VMware Cloud Software Editions](https://www.vmware.com/cloud-solu
 
 Es un servicio basado en la nube que permite consumir y operar servicios de redes y seguridad de NSX, tanto para usar en nubes privadas como públicas. El servicio de NSX+ Policy Management como su nombre lo indica centraliza todo el manejo de políticas tanto en nubes privadas como públicas desde un solo lugar. El de NSX+ Intelligence entrega visibilidad y analítica en tiempo real de inspección de paquetes, tráficos, etc. Por último, NSX+ NDR entrega una solución escalable de detección y respuesta ante amenazas ideal para ser utilizada por el SoC.
 
-<img src="/assets/images/explore-2023/picture3.png" alt="Pic1" align="center" /> 
+![image-center](/assets/images/explore-2023/picture3.png){: .align-center} 
 
 Link: [NSX+ Features](https://docs.vmware.com/en/VMware-NSX/4.1.1/nsx-feature-and-edition-guide/GUID-E25ACDFD-1687-4D50-9CA9-CD8AD5715E6C.html)
 
