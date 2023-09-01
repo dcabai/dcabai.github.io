@@ -68,7 +68,7 @@ Link: [Announcing vSphere Q3 2023 Release](https://blogs.vmware.com/vsphere/2023
 En el VMware Explore pasado se había anunciado el Express Storage Architecture (ESA) el cual fue un gran salto en la evolución de vSAN desde su primer lanzamiento. Si no recuerdas que era ESA, te dejo el link: [An Introduction to the vSAN Express Storage Architecture](https://core.vmware.com/blog/introduction-vsan-express-storage-architecture)
 
 - VMware vSAN Max
-  Es una nueva oferta de la familia vSAN, basada en ESA, con su nuevo modelo de implementación de almacenamiento desagregado, el cual permite escalar de manera elástica e independiente de del cómputo e implementar almacenamiento unificado de bloques, archivos y objetos basado en partners para maximizar la utilización y lograr un menor TCO.
+  Es una nueva oferta de la familia vSAN, basada en ESA, con su nuevo modelo de implementación de almacenamiento desagregado, el cual permite escalar de manera elástica e independiente del cómputo e implementar almacenamiento unificado de bloques, archivos y objetos basado en partners para maximizar la utilización y lograr un menor TCO.
   Link: [Introducing vSAN Max](https://core.vmware.com/blog/introducing-vsan-max)
 
 **VMware Cloud on AWS Advanced**
