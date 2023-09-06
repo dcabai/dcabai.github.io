@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "Google Cloud Next ’23 - Recap"
+title:  "Google Cloud Next 2023 - Recap"
 categories: gcp eventos cloud kubernetes
 tags: cloud gcp kubernetes hybridcloud multicloud eventos ia novedades 
 date:   2023-09-05 12:50:23 -0400
 classes: wide
 ---
+
 ![image-center](/assets/images/google-next23/recap.png){: .align-center}
 
 Es tiempo de otro “recap” en este caso el de Google que fue la semana pasada. Estos días se vienen varios eventos de tecnología importantes y todos con grandes anuncios.
