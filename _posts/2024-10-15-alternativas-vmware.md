@@ -88,7 +88,7 @@ Nutanix AHV es una opción centrada en hipervisor diseñada para entornos de nub
   - **Dependencia de Nutanix:** Funciona mejor en entornos de infraestructura Nutanix, lo cual puede ser una limitación para algunas empresas.
   - **Curva de aprendizaje:** AHV puede requerir capacitación adicional, especialmente para equipos nuevos en la virtualización basada en Nutanix.
 
-### Conclusión
+## Conclusión
 
 A medida que la virtualización continúa evolucionando, las alternativas a VMware están ganando terreno, ofreciendo características avanzadas y precios competitivos. Cada una de estas opciones presenta sus propias ventajas y limitaciones, y su viabilidad depende en gran medida de los requisitos específicos de la empresa y del entorno en el que se implementará. Aunque VMware sigue siendo una referencia en el mercado, Proxmox VE, Hyper-V, Red Hat Virtualization, Citrix Hypervisor, Oracle VM VirtualBox y Nutanix AHV han alcanzado una madurez notable, con capacidades robustas y especializaciones que pueden ser suficientes para reemplazar a VMware en muchos casos.
 
