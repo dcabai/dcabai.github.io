@@ -54,7 +54,9 @@ En este artículo, te cuento sobre cuatro alternativas de nube pública que pued
 
 **Viabilidad en costos**: OCI suele ser una opción rentable, especialmente para empresas en Chile, gracias a su centro de datos local, que reduce costos de transferencia y mejora la conectividad. Para empresas que ya utilizan productos Oracle, OCI representa una opción muy económica en comparación con otras nubes públicas.
 
-## Conclusión: ¿Convienen las Alternativas de Nube Pública para Reemplazar VMware?
+## Conclusión: 
+
+¿Convienen las Alternativas de Nube Pública para Reemplazar VMware?
 
 En términos de costos y escalabilidad, las nubes públicas ofrecen una solución flexible que permite a las empresas eliminar gran parte de la infraestructura física y los costos asociados. Sin embargo, la elección de una alternativa de nube pública depende en gran medida de las necesidades específicas de cada organización. Empresas que necesitan alta seguridad y cumplimiento normativo pueden encontrar en opciones como OCI con su centro de datos en Chile una ventaja competitiva, mientras que aquellas que buscan flexibilidad y análisis de datos pueden inclinarse por AWS o GCP.
 
