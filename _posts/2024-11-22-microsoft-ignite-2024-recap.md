@@ -175,7 +175,7 @@ Incluye el siguiente conjunto de capacidades integrales:
 
 - **Unified Exposure Insights** agrega datos de la postura de seguridad de Microsoft y otros proveedores, lo que proporciona a los tomadores de decisiones de seguridad métricas automatizadas para iniciativas de seguridad alineadas con sus necesidades comerciales y requisitos de cumplimiento. Los conocimientos se pueden aprovechar para priorizar de manera eficaz las inversiones y centrarse en la gestión de la exposición de seguridad general de la organización.
 
-Link: [AI innovations for a more secure future unveiled at Microsoft Ignite](https://www.microsoft.com/en-us/security/blog/2024/11/19/ai-innovations-for-a-more-secure-future-unveiled-at-microsoft-ignite/) 
+Link: [AI innovations for a more secure future unveiled at Microsoft Ignite](https://www.microsoft.com/en-us/security/blog/2024/11/19/ai-innovations-for-a-more-secure-future-unveiled-at-microsoft-ignite/)  
 Link: [Microsoft Security Exposure Management](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-security-exposure-management) 
 
 ## Azure Local
