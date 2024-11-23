@@ -67,7 +67,7 @@ En la misma línea, también se introdujeron los **SharePoint Agents**, agentes 
 
 Estos agentes buscan hacer de SharePoint una herramienta aún más eficiente y amigable, especialmente en empresas que manejan grandes volúmenes de información y colaboración distribuida.
 
-<iframe width="560" height="315" src="https://youtu.be/EVEcjH90YXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVEcjH90YXo?si=u4eaIUpXAtx4Zx2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 <br/>
 
 ## Azure AI Foundry
@@ -86,7 +86,7 @@ Representa un avance significativo en la forma en que las empresas pueden aprove
 
 Link: [What is Azure AI Foundry?](https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio)  
 
-<iframe width="560" height="315" src="https://youtu.be/ltt7JNd30Ag?si=GG5KwnJw7apye1N1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltt7JNd30Ag?si=d9vWbuPUk-bOka70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 <br/>
 
 ## Copilot Analytics 
@@ -103,7 +103,7 @@ Es un thinclient para el servicio de Windows 365 básicamente, pero la practicid
 
 Se espera su lanzamiento en **abril de 2025** a un precio de USD 349.
 
-<iframe width="560" height="315" src="https://youtu.be/BQpNTDgzIn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BQpNTDgzIn8?si=4Lze1SJYOx8I1-CE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 <br/>
 
 ## Azure Integrated HSM
@@ -130,14 +130,14 @@ Las reuniones de Microsoft Teams contarán con una nueva función de intérprete
 
 A principios de 2025 estará disponible una versión preliminar que incluirá hasta **nueve idiomas** y la capacidad de que la función de intérprete **simule su voz personal** en un idioma diferente. ¡Esto es una locura! Imaginate escucharte a vos mismo estar hablando en otro idioma directamente en la reunión por Teams. Estamos viviendo una época de gran innovación.
 
-<iframe width="560" height="315" src="https://youtu.be/EVEcjH90YXo?si=3WPFdWGgH0jlw025&t=46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVEcjH90YXo?si=kGPoym1mBtALoyNh&amp;start=46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 <br/>
 
 **Storyline integrado en Teams**: versión preliminar pública a principios de 2025.
 
 Las comunicaciones de los empleados suelen estar dispersas en varias ubicaciones, lo que genera frustración, demoras y sobrecarga. Storyline compartir comunicaciones con toda la empresa y simplifica las formas en que todos comparten información y se conectan. 
 
-Link: [What’s New in Microsoft Teams | Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/microsoftteamsblog/what%E2%80%99s-new-in-microsoft-teams--microsoft-ignite-2024/4287538) 
+Link: [What’s New in Microsoft Teams Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/microsoftteamsblog/what%E2%80%99s-new-in-microsoft-teams--microsoft-ignite-2024/4287538) 
 
 ## Enfoque en Seguridad y Resiliencia
 
@@ -188,9 +188,9 @@ Si tenías **Azure Stack HCI**, ahora es parte de Azure Local. Es una muy buena 
 
 ![image-center](/assets/images/ignite-2024-recap/image6.png){: .align-center}
 
-Link: [Microsoft Azure Local](https://azure.microsoft.com/en-us/products/local) 
-Link: [Azure Local solution overview](https://learn.microsoft.com/en-us/azure/azure-local/overview) 
-Link: [Hardware compatible](https://azurestackhcisolutions.azure.microsoft.com/#/catalog) 
+Link: [Microsoft Azure Local](https://azure.microsoft.com/en-us/products/local)  
+Link: [Azure Local solution overview](https://learn.microsoft.com/en-us/azure/azure-local/overview)  
+Link: [Hardware compatible](https://azurestackhcisolutions.azure.microsoft.com/#/catalog)  
 
 ## NVIDIA Blackwell en Azure
 
@@ -263,7 +263,7 @@ Esta solución ayudará a detectar esto y ofrecerte un mapa de los puestos de tr
 
 No dejes de ver el video. 👇
 
-<iframe width="560" height="315" src="https://youtu.be/lOJn8drYZyc?si=f-c-JR1AfPZsTqv_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOJn8drYZyc?si=_8OTUHjT7j84SKsV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 <br/>
 
 ## Dynamic sessions & Serverless GPUs
