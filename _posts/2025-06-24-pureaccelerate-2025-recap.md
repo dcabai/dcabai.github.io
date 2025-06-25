@@ -3,7 +3,7 @@ layout: single
 title:  "Lo que dejó Pure//Accelerate 2025: innovación, automatización y visión de futuro"
 categories: purestorage eventos cloud
 tags: cloud storage purestorage hybridcloud multicloud eventos ia novedades 
-date:   2025-06-24 12:50:23 -0400
+date:   2025-06-24 09:50:23 -0400
 classes: wide
 ---
 
