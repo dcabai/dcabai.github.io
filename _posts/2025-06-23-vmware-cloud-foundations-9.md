@@ -3,7 +3,7 @@ layout: single
 title:  "VMware Cloud Foundation 9 (VCF): Todo lo que necesitas saber sobre la nueva versión"
 categories: vmware cloud kubernetes
 tags: cloud vmware azure kubernetes hybridcloud multicloud tanzu drp vmconaws nsx vrealize sddc gcp aria devops vcf
-date:   2025-06-24 12:50:23 -0400
+date:   2025-06-23 12:50:23 -0400
 classes: wide
 ---
 
