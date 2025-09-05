@@ -1,0 +1,26 @@
+---
+layout: single
+title:  "¿El fin de las máquinas virtuales?"
+categories: vmware cloud kubernetes serverless
+tags: cloud vmware azure kubernetes hybridcloud multicloud tanzu aws gcp serverless
+date:   2025-09-04 10:50:23 -0400
+classes: wide
+---
+
+Buen título ¿cierto? No es tan así, pero creo quería compartir mi punto de vista personal respecto a las máquinas virtuales y servidores, con sustento en estudios mayores, pero al final del día es mi opinión. 
+
+Durante más de una década, las máquinas virtuales fueron el estándar indiscutido en el mundo del desarrollo y la infraestructura de TI. Nos permitieron aprovechar mejor los recursos de hardware, aislar aplicaciones y simplificar la administración de entornos antes caóticos. Sin embargo, el panorama ha cambiado. Cada vez más organizaciones comienzan a abandonar las VMs como pieza central de su arquitectura, dándole paso a tecnologías más ligeras, flexibles y económicas: los contenedores y, más allá de ellos, las plataformas Serverless.
+
+El motivo es sencillo: las VMs arrastran una sobrecarga considerable. Cada instancia requiere un sistema operativo completo, con todo lo que eso implica en consumo de CPU, memoria, almacenamiento, agentes y licencias. Existen estudios donde ya en 2018 mostraban que más del 40% de las empresas planificaban migrar parte de sus cargas a contenedores justamente para reducir el “impuesto” operativo de las VMs. Esa tendencia no solo se confirmó, sino que se aceleró. Las empresas de observabilidad como Datadog revelan que la adopción de contenedores en entornos de producción sigue en crecimiento, y que los llamados Serverless containers ya pasaron a casi un 50% hoy.
+
+Los contenedores ofrecen una eficiencia difícil de ignorar: se **inician en segundos**, consumen **menos recursos** y se integran con herramientas de orquestación como Kubernetes que **simplifican** su gestión a gran escala. Al compartir el kernel del sistema operativo, eliminan gran parte del overhead de las VMs, lo que se traduce en mayor densidad de aplicaciones por servidor físico y, en consecuencia, **reducción de costos**. Cada día veo más organizaciones utilizando contenedores en sus entornos de desarrollo o producción y todos los nuevos desarrollos los están realizando directamente sobre Serverless en la nube.
+
+Pero la evolución no se detuvo ahí. La siguiente etapa es **Serverless**, un modelo en el que la infraestructura se abstrae casi por completo y los equipos de desarrollo pueden enfocarse solo en el código. Con AWS Lambda, Google Cloud Functions o Azure Functions, el despliegue se convierte en un servicio de ejecución bajo demanda: la aplicación corre únicamente cuando lo necesita, escala de forma automática y se paga solo por el tiempo de uso. Es la antítesis de mantener servidores, sean físicos, virtuales o contenedores permanentes, corriendo en espera de recibir tráfico. Y aunque el Serverless plantea retos como los “cold starts” o el riesgo de dependencia de un proveedor, su atractivo en términos de velocidad y eficiencia lo está llevando a consolidarse como un componente clave en arquitecturas modernas.
+
+En paralelo, la irrupción de la **inteligencia artificial** está acelerando esta transformación. La combinación de agentes autónomos capaces de gestionar despliegues, escalar recursos y monitorear la infraestructura en tiempo real hace que la noción misma de “administrar servidores”, aunque sean máquinas virtuales, se vuelva obsoleta. Y esto trae también un desafío enorme para los **Managed Service Providers (MSP)**: si la infraestructura ya no requiere tanta administración manual, deberán transformar sus capacidades técnicas, evolucionando hacia la gestión de plataformas, la automatización avanzada y la optimización de entornos híbridos para seguir aportando valor a sus clientes.
+
+¿Significa esto que las máquinas virtuales van a desaparecer por completo? Probablemente no, aún vemos servidores físicos en algunas organizaciones. Todavía hay espacio para ellas en escenarios específicos: aplicaciones heredadas difíciles de modernizar, entornos que requieren un aislamiento extremo por temas regulatorios o cargas de trabajo que no pueden migrar fácilmente. En esos casos, las VMs siguen siendo útiles y probablemente lo serán durante bastante tiempo. Sin embargo, es evidente que su protagonismo está en retroceso. La tendencia dominante apunta a arquitecturas híbridas donde conviven VMs, contenedores y funciones Serverless, pero con un peso cada vez mayor de estas últimas.
+
+### Conclusión
+
+Desde mi punto de vista, creo que estamos viviendo el inicio del fin de la era de las VMs como base de todo. El futuro ya no se define en términos de “servidores”, sino en la capacidad de las organizaciones para **abstraer, automatizar y escalar** con ayuda de IA. Los que trabajamos en el ecosistema de servicios tecnológicos tenemos que prepararnos: no se trata solo de adoptar nuevas herramientas, sino de transformar nuestra manera de entregar valor. Las máquinas virtuales marcaron un antes y un después en la historia de TI, pero hoy los contenedores, el Serverless y la automatización inteligente escriben el próximo capítulo. El miedo real es que el tiempo entre cada etapa o tecnología es cada vez mas corto. ¿Tendremos la capacidad suficiente para adaptarnos al mismo ritmo?
